@@ -1,0 +1,12 @@
+C:\D\Học\Học Kỳ 5\Nhập môn Công Nghệ Phần Mềm\QuanLyKhachSan\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+C:\D\Học\Học Kỳ 5\Nhập môn Công Nghệ Phần Mềm\QuanLyKhachSan\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\D\Học\Học Kỳ 5\Nhập môn Công Nghệ Phần Mềm\QuanLyKhachSan\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\D\Học\Học Kỳ 5\Nhập môn Công Nghệ Phần Mềm\QuanLyKhachSan\BussinessLayer\bin\Debug\EntityFramework.dll
+C:\D\Học\Học Kỳ 5\Nhập môn Công Nghệ Phần Mềm\QuanLyKhachSan\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\D\Học\Học Kỳ 5\Nhập môn Công Nghệ Phần Mềm\QuanLyKhachSan\BussinessLayer\bin\Debug\EntityFramework.xml
+C:\D\Học\Học Kỳ 5\Nhập môn Công Nghệ Phần Mềm\QuanLyKhachSan\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\D\Học\Học Kỳ 5\Nhập môn Công Nghệ Phần Mềm\QuanLyKhachSan\BussinessLayer\obj\Debug\BussinessLayer.csproj.AssemblyReference.cache
+C:\D\Học\Học Kỳ 5\Nhập môn Công Nghệ Phần Mềm\QuanLyKhachSan\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\D\Học\Học Kỳ 5\Nhập môn Công Nghệ Phần Mềm\QuanLyKhachSan\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+C:\D\Học\Học Kỳ 5\Nhập môn Công Nghệ Phần Mềm\QuanLyKhachSan\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\D\Học\Học Kỳ 5\Nhập môn Công Nghệ Phần Mềm\QuanLyKhachSan\BussinessLayer\obj\Debug\BussinessLayer.pdb
